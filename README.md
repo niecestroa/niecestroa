@@ -1,5 +1,7 @@
 # Hi, I'm Aaron Niecestro
 
+Biostatistician | Data Scientist | Clinical Research | Machine Learning  
+
 Biostatistician and Data Scientist with 7+ years of experience across clinical development, healthcare analytics, quantitative modeling, and machine learning.
 
 My background combines clinical research, regulatory biostatistics, and applied data science with experience supporting statistical analysis plans, FDA-aligned documentation, clinical database development, and predictive modeling using R, SAS, Python, and SQL.
